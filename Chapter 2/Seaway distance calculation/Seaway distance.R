@@ -35,6 +35,8 @@ rp <- rasterize(poly, r)
 output_file <- "100by100raster(BC_waterway).tif"
 writeRaster(rp, filename = output_file, format = "GTiff", overwrite = TRUE)
 
+#note: Rasters made from QGIS are more reliable, but too large to attach to GitHub)
+
 # 9. Check if any sites are outside the raster
 site_check <- extract(rp, sites)
 sites_df <- as.data.frame(sites$Site_id[is.na(site_check)])  # IDs of sites outside raster
