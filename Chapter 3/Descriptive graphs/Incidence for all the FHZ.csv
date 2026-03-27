@@ -1,0 +1,433 @@
+Zone,Event,Year,Mean,CI lower band,CI upper band
+Mainland Central,Harmful algal blooms (HABs),2011,,,
+Mainland Central,Harmful algal blooms (HABs),2016,,,
+Mainland Central,Harmful algal blooms (HABs),2022,,,
+Mainland Far North,Harmful algal blooms (HABs),2011,,,
+Mainland Far North,Harmful algal blooms (HABs),2012,,,
+Mainland Far North,Harmful algal blooms (HABs),2013,,,
+Mainland Far North,Harmful algal blooms (HABs),2014,,,
+Mainland Far North,Harmful algal blooms (HABs),2016,,,
+Mainland Far North,Harmful algal blooms (HABs),2017,,,
+Mainland Far North,Harmful algal blooms (HABs),2018,,,
+Mainland Far North,Harmful algal blooms (HABs),2020,,,
+Mainland Far North,Harmful algal blooms (HABs),2021,,,
+Mainland Far North,Harmful algal blooms (HABs),2022,,,
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2013,,,
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2014,,,
+Mainland South Central,Harmful algal blooms (HABs),2012,,,
+Mainland South Central,Harmful algal blooms (HABs),2013,,,
+Mainland South Central,Harmful algal blooms (HABs),2016,,,
+Mainland South Central,Harmful algal blooms (HABs),2019,,,
+Mainland South Central,Harmful algal blooms (HABs),2022,,,
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2012,,,
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2013,,,
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2015,,,
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2017,,,
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2019,,,
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2021,,,
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2022,,,
+Vancouver Island West Central,Harmful algal blooms (HABs),2013,,,
+Vancouver Island West Central,Harmful algal blooms (HABs),2014,,,
+Vancouver Island West Central,Harmful algal blooms (HABs),2015,,,
+Vancouver Island West Central,Harmful algal blooms (HABs),2016,,,
+Vancouver Island West Central,Harmful algal blooms (HABs),2017,,,
+Vancouver Island West Central,Harmful algal blooms (HABs),2022,,,
+Mainland North Central,Harmful algal blooms (HABs),2011,,,
+Mainland North Central,Harmful algal blooms (HABs),2012,,,
+Mainland North Central,Harmful algal blooms (HABs),2013,,,
+Mainland North Central,Harmful algal blooms (HABs),2016,,,
+Mainland North Central,Harmful algal blooms (HABs),2017,,,
+Mainland North Central,Harmful algal blooms (HABs),2018,,,
+Mainland North Central,Harmful algal blooms (HABs),2019,,,
+Mainland North Central,Harmful algal blooms (HABs),2020,,,
+Mainland North Central,Harmful algal blooms (HABs),2021,,,
+Mainland North Central,Harmful algal blooms (HABs),2022,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2011,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2013,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2014,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2015,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2016,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2017,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2019,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2020,,,
+Vancouver Island Northwest,Harmful algal blooms (HABs),2022,,,
+Mainland Far South,Harmful algal blooms (HABs),2011,,,
+Mainland Far South,Harmful algal blooms (HABs),2012,,,
+Mainland Far South,Harmful algal blooms (HABs),2013,,,
+Mainland Far South,Harmful algal blooms (HABs),2014,,,
+Mainland Far South,Harmful algal blooms (HABs),2015,,,
+Mainland Far South,Harmful algal blooms (HABs),2017,,,
+Mainland Central,Harmful algal blooms (HABs),2012,0.67568,0.01711,3.76462
+Mainland Central,Harmful algal blooms (HABs),2013,0.59524,0.01507,3.31645
+Mainland Central,Harmful algal blooms (HABs),2015,0.60976,0.01544,3.39734
+Mainland Central,Harmful algal blooms (HABs),2018,0.62893,0.01592,3.50418
+Mainland Central,Harmful algal blooms (HABs),2021,0.59524,0.01507,3.31645
+Mainland Far North,Harmful algal blooms (HABs),2015,2.08333,0.05275,11.60759
+Mainland South Central,Harmful algal blooms (HABs),2014,1.14943,0.0291,6.40419
+Mainland South Central,Harmful algal blooms (HABs),2018,0.9434,0.02388,5.25627
+Mainland South Central,Harmful algal blooms (HABs),2021,2.08333,0.05275,11.60759
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2011,12.5,0.31647,69.64554
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2020,2.77778,0.07033,15.47679
+Vancouver Island West Central,Harmful algal blooms (HABs),2011,3.44828,0.0873,19.21256
+Vancouver Island West Central,Harmful algal blooms (HABs),2020,2.38095,0.06028,13.26582
+Vancouver Island West Central,Harmful algal blooms (HABs),2021,1.66667,0.0422,9.28607
+Mainland North Central,Harmful algal blooms (HABs),2014,1.92308,0.04869,10.7147
+Mainland North Central,Harmful algal blooms (HABs),2015,1.6666,0.0422,9.28607
+Vancouver Island Northwest,Harmful algal blooms (HABs),2018,4.16667,0.10549,23.21518
+Mainland Far South,Harmful algal blooms (HABs),2019,1.5873,0.04019,8.84388
+Mainland Far South,Harmful algal blooms (HABs),2021,2,0.05064,11.14329
+Mainland Central,Harmful algal blooms (HABs),2017,1.13636,0.13762,4.10494
+Mainland Central,Harmful algal blooms (HABs),2020,1.42857,0.17301,5.16049
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2011,2.5974,0.31456,9.38271
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2015,1.43885,0.17425,5.19762
+Mainland South Central,Harmful algal blooms (HABs),2017,2.27273,0.27524,8.20987
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2014,10,1.21105,36.12344
+Vancouver Island West Central,Harmful algal blooms (HABs),2012,4.44444,0.53824,16.05486
+Mainland Far South,Harmful algal blooms (HABs),2022,5.55556,0.6728,20.06858
+Mainland Far North,Harmful algal blooms (HABs),2019,8.10811,1.67209,23.69533
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2016,2.5,0.51556,7.30606
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2022,5.26316,1.08539,15.38118
+Mainland South Central,Harmful algal blooms (HABs),2015,3.06122,0.6313,8.9462
+Mainland South Central,Harmful algal blooms (HABs),2020,2.47934,0.5113,7.24568
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2016,12.5,2.5778,36.5303
+Vancouver Island Northwest,Harmful algal blooms (HABs),2012,8.57143,1.76763,25.04935
+Mainland Central,Harmful algal blooms (HABs),2019,2.18579,0.59555,5.5965
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2012,3.73832,1.01857,9.57158
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2017,3.66972,0.99988,9.39595
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2021,3.92157,1.0685,10.04077
+Vancouver Island Northwest Central,Harmful algal blooms (HABs),2018,12.5,3.40583,32.00496
+Vancouver Island West Central,Harmful algal blooms (HABs),2018,10,2.72466,25.60397
+Vancouver Island Northwest,Harmful algal blooms (HABs),2021,8.33333,2.27055,21.33664
+Mainland Far South,Harmful algal blooms (HABs),2016,6.77966,1.84723,17.35862
+Mainland Far South,Harmful algal blooms (HABs),2020,6.66667,1.81644,17.06931
+Mainland Central,Harmful algal blooms (HABs),2014,2.97619,0.96636,6.94544
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2018,5,1.62349,11.66833
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2019,4.9505,1.60741,11.5528
+Mainland South Central,Harmful algal blooms (HABs),2011,5.55556,1.80387,12.96481
+Mainland Far South,Harmful algal blooms (HABs),2018,7.35294,2.38748,17.15931
+Vancouver Island Southwest Central,Harmful algal blooms (HABs),2020,6.97674,2.56034,15.18543
+Vancouver Island West Central,Harmful algal blooms (HABs),2019,17.85714,8.56319,32.83992
+Mainland Central,Low dissolved oxygen (Low-DO),2012,,,
+Mainland Central,Low dissolved oxygen (Low-DO),2022,,,
+Mainland Far North,Low dissolved oxygen (Low-DO),2011,,,
+Mainland Far North,Low dissolved oxygen (Low-DO),2012,,,
+Mainland Far North,Low dissolved oxygen (Low-DO),2013,,,
+Mainland Far North,Low dissolved oxygen (Low-DO),2014,,,
+Mainland Far North,Low dissolved oxygen (Low-DO),2016,,,
+Mainland Far North,Low dissolved oxygen (Low-DO),2020,,,
+Mainland Far North,Low dissolved oxygen (Low-DO),2021,,,
+Mainland Far North,Low dissolved oxygen (Low-DO),2022,,,
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2020,,,
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2021,,,
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2022,,,
+Mainland South Central,Low dissolved oxygen (Low-DO),2011,,,
+Mainland South Central,Low dissolved oxygen (Low-DO),2012,,,
+Mainland South Central,Low dissolved oxygen (Low-DO),2013,,,
+Mainland South Central,Low dissolved oxygen (Low-DO),2015,,,
+Mainland South Central,Low dissolved oxygen (Low-DO),2022,,,
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2011,,,
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2013,,,
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2014,,,
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2016,,,
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2018,,,
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2022,,,
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2011,,,
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2012,,,
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2013,,,
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2014,,,
+Mainland North Central,Low dissolved oxygen (Low-DO),2011,,,
+Mainland North Central,Low dissolved oxygen (Low-DO),2012,,,
+Mainland North Central,Low dissolved oxygen (Low-DO),2013,,,
+Mainland North Central,Low dissolved oxygen (Low-DO),2014,,,
+Mainland North Central,Low dissolved oxygen (Low-DO),2015,,,
+Mainland North Central,Low dissolved oxygen (Low-DO),2022,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2011,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2012,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2013,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2014,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2015,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2016,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2017,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2018,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2020,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2021,,,
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2022,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2011,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2012,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2013,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2014,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2015,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2016,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2017,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2020,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2021,,,
+Mainland Far South,Low dissolved oxygen (Low-DO),2022,,,
+Mainland Central,Low dissolved oxygen (Low-DO),2013,0.59524,0.01507,3.31645
+Mainland Far North,Low dissolved oxygen (Low-DO),2015,2.08333,0.05275,11.60759
+Mainland Far North,Low dissolved oxygen (Low-DO),2019,2.7027,0.06843,15.0585
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2011,1.2987,0.03288,7.2359
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2013,0.86957,0.02202,4.84491
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2014,0.76923,0.01948,4.28588
+Mainland South Central,Low dissolved oxygen (Low-DO),2017,1.13636,0.02877,6.33141
+Mainland South Central,Low dissolved oxygen (Low-DO),2021,2.08333,0.05275,11.60759
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2017,5.55556,0.14065,30.95357
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2021,4,0.10127,22.28657
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2016,3.0303,0.07672,16.88377
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2018,2.5,0.06329,13.92911
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2019,1.78571,0.04521,9.94936
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2020,2.38095,0.06028,13.26582
+Mainland North Central,Low dissolved oxygen (Low-DO),2016,1.49254,0.03779,8.31589
+Mainland North Central,Low dissolved oxygen (Low-DO),2021,1.92308,0.04869,10.7147
+Vancouver Island Northwest,Low dissolved oxygen (Low-DO),2019,2.43902,0.06175,13.58937
+Mainland Far South,Low dissolved oxygen (Low-DO),2019,1.5873,0.04019,8.84388
+Mainland Central,Low dissolved oxygen (Low-DO),2011,2.10526,0.25496,7.60493
+Mainland Central,Low dissolved oxygen (Low-DO),2014,1.19048,0.14417,4.30041
+Mainland Central,Low dissolved oxygen (Low-DO),2020,1.42857,0.17301,5.16049
+Mainland Far North,Low dissolved oxygen (Low-DO),2018,6.06061,0.73397,21.89299
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2017,1.83486,0.22221,6.62815
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2018,2,0.24221,7.22469
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2019,1.9802,0.23981,7.15316
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2015,9.52381,1.15338,34.40327
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2021,3.33333,0.40368,12.04115
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2022,6.89655,0.8352,24.91272
+Mainland North Central,Low dissolved oxygen (Low-DO),2017,3.22581,0.39066,11.65272
+Mainland Central,Low dissolved oxygen (Low-DO),2015,1.82927,0.37724,5.3459
+Mainland Central,Low dissolved oxygen (Low-DO),2016,1.86335,0.38427,5.44551
+Mainland Far North,Low dissolved oxygen (Low-DO),2017,8.57143,1.76763,25.04935
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2012,2.80374,0.5782,8.19371
+Mainland South Central,Low dissolved oxygen (Low-DO),2019,2.5641,0.52878,7.4934
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2019,12,2.47469,35.06909
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2020,8.33333,1.71853,24.35354
+Mainland North Central,Low dissolved oxygen (Low-DO),2020,4.83871,0.99786,14.14076
+Mainland South Central,Low dissolved oxygen (Low-DO),2014,4.5977,1.25272,11.77194
+Mainland South Central,Low dissolved oxygen (Low-DO),2016,3.7037,1.00913,9.48295
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2017,7.69231,2.09589,19.69536
+Mainland North Central,Low dissolved oxygen (Low-DO),2019,4.65116,1.26729,11.90882
+Mainland Central,Low dissolved oxygen (Low-DO),2018,3.14465,1.02106,7.33857
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2015,3.59712,1.16798,8.39448
+Vancouver Island Southwest Central,Low dissolved oxygen (Low-DO),2016,4.16667,1.35291,9.72361
+Mainland South Central,Low dissolved oxygen (Low-DO),2018,4.71698,1.53159,11.00786
+Vancouver Island West Central,Low dissolved oxygen (Low-DO),2015,9.80392,3.18331,22.87908
+Mainland North Central,Low dissolved oxygen (Low-DO),2018,6.66667,2.16465,15.55778
+Mainland Far South,Low dissolved oxygen (Low-DO),2018,7.35294,2.38748,17.15931
+Mainland Central,Low dissolved oxygen (Low-DO),2017,3.40909,1.25108,7.42016
+Mainland Central,Low dissolved oxygen (Low-DO),2021,5.35714,2.44963,10.16953
+Mainland South Central,Low dissolved oxygen (Low-DO),2020,8.26446,3.96313,15.19864
+Mainland Central,Low dissolved oxygen (Low-DO),2019,9.83607,5.82948,15.54522
+Vancouver Island Northwest Central,Low dissolved oxygen (Low-DO),2012,,,
+Mainland Far North,Total MEs,2011,,,
+Mainland Far North,Total MEs,2012,,,
+Mainland Far North,Total MEs,2013,,,
+Mainland Far North,Total MEs,2016,,,
+Mainland Far North,Total MEs,2021,,,
+Mainland Far North,Total MEs,2022,,,
+Mainland South Central,Total MEs,2012,,,
+Mainland South Central,Total MEs,2013,,,
+Mainland South Central,Total MEs,2022,,,
+Vancouver Island Northwest Central,Total MEs,2012,,,
+Vancouver Island Northwest Central,Total MEs,2013,,,
+Vancouver Island Northwest Central,Total MEs,2022,,,
+Mainland North Central,Total MEs,2011,,,
+Mainland North Central,Total MEs,2012,,,
+Mainland North Central,Total MEs,2013,,,
+Vancouver Island Northwest,Total MEs,2011,,,
+Vancouver Island Northwest,Total MEs,2013,,,
+Vancouver Island Northwest,Total MEs,2014,,,
+Vancouver Island Northwest,Total MEs,2015,,,
+Vancouver Island Northwest,Total MEs,2016,,,
+Vancouver Island Northwest,Total MEs,2022,,,
+Mainland Far South,Total MEs,2011,,,
+Mainland Far South,Total MEs,2012,,,
+Mainland Far South,Total MEs,2013,,,
+Mainland Far South,Total MEs,2014,,,
+Mainland Far South,Total MEs,2015,,,
+Mainland Far South,Total MEs,2017,,,
+Mainland Far North,Total MEs,2014,1.92308,0.04869,10.7147
+Vancouver Island Northwest Central,Total MEs,2011,12.5,0.31647,69.64554
+Vancouver Island West Central,Total MEs,2011,3.44828,0.0873,19.21256
+Mainland North Central,Total MEs,2014,1.92308,0.04869,10.7147
+Mainland Central,Total MEs,2011,2.10526,0.25496,7.60493
+Mainland Central,Total MEs,2013,1.19048,0.14417,4.30041
+Mainland Far North,Total MEs,2015,4.16667,0.5046,15.05143
+Vancouver Island Southwest Central,Total MEs,2013,1.73913,0.21062,6.28234
+Vancouver Island Northwest Central,Total MEs,2014,10,1.21105,36.12344
+Vancouver Island Northwest Central,Total MEs,2015,9.52381,1.15338,34.40327
+Vancouver Island West Central,Total MEs,2012,4.44444,0.53824,16.05486
+Vancouver Island West Central,Total MEs,2014,4.7619,0.57669,17.20164
+Mainland North Central,Total MEs,2015,3.33333,0.40368,12.04115
+Mainland North Central,Total MEs,2022,6.45161,0.78132,23.30544
+Vancouver Island Northwest,Total MEs,2017,6.06061,0.73397,21.89299
+Mainland Far South,Total MEs,2019,3.1746,0.38446,11.46776
+Mainland Far South,Total MEs,2021,4,0.48442,14.44938
+Mainland Central,Total MEs,2016,1.86335,0.38427,5.44551
+Mainland Far North,Total MEs,2018,9.09091,1.87476,26.56749
+Mainland Far North,Total MEs,2020,8.33333,1.71853,24.35354
+Vancouver Island Southwest Central,Total MEs,2011,3.8961,0.80347,11.38607
+Vancouver Island Southwest Central,Total MEs,2014,2.30769,0.4759,6.74406
+Mainland South Central,Total MEs,2015,3.06122,0.6313,8.9462
+Vancouver Island Northwest Central,Total MEs,2016,12.5,2.5778,36.5303
+Vancouver Island West Central,Total MEs,2013,11.53846,2.37951,33.72028
+Mainland North Central,Total MEs,2016,4.47761,0.92339,13.08548
+Mainland North Central,Total MEs,2017,4.83871,0.99786,14.14076
+Vancouver Island Northwest,Total MEs,2012,8.57143,1.76763,25.04935
+Vancouver Island Northwest,Total MEs,2018,12.5,2.5778,36.5303
+Vancouver Island Northwest,Total MEs,2019,7.31707,1.50896,21.38359
+Vancouver Island Northwest,Total MEs,2020,9.09091,1.87476,26.56749
+Mainland Central,Total MEs,2012,2.7027,0.7364,6.91999
+Mainland Central,Total MEs,2015,2.43902,0.66455,6.24487
+Mainland South Central,Total MEs,2017,4.54545,1.23848,11.63817
+Mainland South Central,Total MEs,2021,8.33333,2.27055,21.33664
+Vancouver Island Northwest Central,Total MEs,2017,22.22222,6.05481,56.89771
+Vancouver Island Northwest Central,Total MEs,2018,12.5,3.40583,32.00496
+Mainland Far South,Total MEs,2016,6.77966,1.84723,17.35862
+Mainland Far South,Total MEs,2022,11.11111,3.0274,28.44886
+Mainland Far North,Total MEs,2017,14.28571,4.63853,33.33809
+Mainland South Central,Total MEs,2011,5.55556,1.80387,12.96481
+Mainland South Central,Total MEs,2014,5.74713,1.86608,13.41188
+Mainland South Central,Total MEs,2016,4.62963,1.50323,10.80401
+Vancouver Island Northwest Central,Total MEs,2021,20,6.49395,46.67333
+Vancouver Island West Central,Total MEs,2015,9.80392,3.18331,22.87908
+Vancouver Island West Central,Total MEs,2021,8.33333,2.70581,19.44722
+Vancouver Island Northwest,Total MEs,2021,10.41667,3.38226,24.30903
+Mainland Central,Total MEs,2022,11.32075,4.15452,24.64052
+Vancouver Island Southwest Central,Total MEs,2017,5.50459,2.02009,11.98117
+Mainland Central,Total MEs,2014,4.16667,1.67522,8.58493
+Mainland Far North,Total MEs,2019,18.91892,7.60639,38.9802
+Vancouver Island Northwest Central,Total MEs,2019,28,11.25745,57.6907
+Vancouver Island West Central,Total MEs,2016,21.21212,8.52837,43.70508
+Mainland North Central,Total MEs,2019,8.13953,3.27252,16.77055
+Mainland Far South,Total MEs,2020,11.66667,4.69061,24.03779
+Mainland Central,Total MEs,2018,5.03145,2.17222,9.91396
+Vancouver Island Southwest Central,Total MEs,2012,7.47664,3.22788,14.73195
+Vancouver Island Southwest Central,Total MEs,2015,5.7554,2.48477,11.34042
+Vancouver Island Northwest Central,Total MEs,2020,22.22222,9.59398,43.78664
+Vancouver Island West Central,Total MEs,2017,15.38462,6.64198,30.31383
+Vancouver Island Southwest Central,Total MEs,2016,7.5,3.42948,14.23734
+Mainland North Central,Total MEs,2020,14.51613,6.6377,27.55613
+Mainland Central,Total MEs,2017,5.68182,2.72465,10.44907
+Vancouver Island Southwest Central,Total MEs,2018,11,5.49116,19.68204
+Vancouver Island Southwest Central,Total MEs,2019,10.89109,5.43679,19.48717
+Mainland South Central,Total MEs,2018,10.37736,5.18034,18.56796
+Mainland South Central,Total MEs,2019,9.40171,4.6933,16.82226
+Vancouver Island West Central,Total MEs,2018,27.5,13.7279,49.2051
+Vancouver Island West Central,Total MEs,2022,37.93103,18.93504,67.8691
+Mainland North Central,Total MEs,2021,21.15385,10.55992,37.85007
+Mainland Central,Total MEs,2020,8.57143,4.42898,14.97256
+Vancouver Island West Central,Total MEs,2019,21.42857,11.07246,37.4314
+Mainland North Central,Total MEs,2018,16,8.26743,27.94878
+Vancouver Island West Central,Total MEs,2020,33.33333,18.22364,55.92767
+Mainland Far South,Total MEs,2018,20.58824,11.25578,34.54356
+Mainland Central,Total MEs,2019,12.56831,7.96723,18.85863
+Mainland South Central,Total MEs,2020,19.83471,12.70847,29.51248
+Vancouver Island Southwest Central,Total MEs,2022,43.85965,28.38365,64.74549
+Mainland Central,Total MEs,2021,15.47619,10.10956,22.6762
+Vancouver Island Southwest Central,Total MEs,2021,26.47059,17.44428,38.51332
+Vancouver Island Southwest Central,Total MEs,2020,33.72093,22.58344,48.42888
+Mainland Central,Treatment,2011,,,
+Mainland Central,Treatment,2012,,,
+Mainland Central,Treatment,2013,,,
+Mainland Central,Treatment,2014,,,
+Mainland Central,Treatment,2015,,,
+Mainland Central,Treatment,2016,,,
+Mainland Central,Treatment,2017,,,
+Mainland Central,Treatment,2018,,,
+Mainland Central,Treatment,2019,,,
+Mainland Far North,Treatment,2011,,,
+Mainland Far North,Treatment,2012,,,
+Mainland Far North,Treatment,2013,,,
+Mainland Far North,Treatment,2014,,,
+Mainland Far North,Treatment,2015,,,
+Mainland Far North,Treatment,2016,,,
+Mainland Far North,Treatment,2017,,,
+Mainland Far North,Treatment,2021,,,
+Mainland Far North,Treatment,2022,,,
+Vancouver Island Southwest Central,Treatment,2011,,,
+Vancouver Island Southwest Central,Treatment,2012,,,
+Vancouver Island Southwest Central,Treatment,2013,,,
+Vancouver Island Southwest Central,Treatment,2014,,,
+Vancouver Island Southwest Central,Treatment,2015,,,
+Vancouver Island Southwest Central,Treatment,2016,,,
+Vancouver Island Southwest Central,Treatment,2017,,,
+Mainland South Central,Treatment,2011,,,
+Mainland South Central,Treatment,2012,,,
+Mainland South Central,Treatment,2013,,,
+Mainland South Central,Treatment,2014,,,
+Mainland South Central,Treatment,2015,,,
+Mainland South Central,Treatment,2016,,,
+Mainland South Central,Treatment,2017,,,
+Mainland South Central,Treatment,2020,,,
+Mainland South Central,Treatment,2022,,,
+Vancouver Island Northwest Central,Treatment,2011,,,
+Vancouver Island Northwest Central,Treatment,2012,,,
+Vancouver Island Northwest Central,Treatment,2013,,,
+Vancouver Island Northwest Central,Treatment,2014,,,
+Vancouver Island Northwest Central,Treatment,2015,,,
+Vancouver Island Northwest Central,Treatment,2016,,,
+Vancouver Island Northwest Central,Treatment,2018,,,
+Vancouver Island Northwest Central,Treatment,2022,,,
+Vancouver Island West Central,Treatment,2011,,,
+Vancouver Island West Central,Treatment,2012,,,
+Vancouver Island West Central,Treatment,2013,,,
+Vancouver Island West Central,Treatment,2014,,,
+Vancouver Island West Central,Treatment,2015,,,
+Vancouver Island West Central,Treatment,2016,,,
+Vancouver Island West Central,Treatment,2019,,,
+Mainland North Central,Treatment,2011,,,
+Mainland North Central,Treatment,2012,,,
+Mainland North Central,Treatment,2013,,,
+Mainland North Central,Treatment,2014,,,
+Mainland North Central,Treatment,2015,,,
+Mainland North Central,Treatment,2016,,,
+Mainland North Central,Treatment,2017,,,
+Mainland North Central,Treatment,2019,,,
+Vancouver Island Northwest,Treatment,2011,,,
+Vancouver Island Northwest,Treatment,2012,,,
+Vancouver Island Northwest,Treatment,2013,,,
+Vancouver Island Northwest,Treatment,2014,,,
+Vancouver Island Northwest,Treatment,2015,,,
+Vancouver Island Northwest,Treatment,2016,,,
+Vancouver Island Northwest,Treatment,2017,,,
+Vancouver Island Northwest,Treatment,2018,,,
+Vancouver Island Northwest,Treatment,2022,,,
+Mainland Far South,Treatment,2011,,,
+Mainland Far South,Treatment,2012,,,
+Mainland Far South,Treatment,2013,,,
+Mainland Far South,Treatment,2014,,,
+Mainland Far South,Treatment,2015,,,
+Mainland Far South,Treatment,2016,,,
+Mainland Far South,Treatment,2017,,,
+Mainland Far South,Treatment,2018,,,
+Mainland Far South,Treatment,2019,,,
+Mainland Far South,Treatment,2020,,,
+Mainland Far South,Treatment,2021,,,
+Mainland Central,Treatment,2020,0.71429,0.01808,3.97975
+Mainland Far North,Treatment,2018,3.0303,0.07672,16.88377
+Vancouver Island Southwest Central,Treatment,2018,1,0.02532,5.57164
+Mainland South Central,Treatment,2019,0.8547,0.02164,4.76209
+Vancouver Island West Central,Treatment,2018,2.5,0.06329,13.92911
+Mainland North Central,Treatment,2022,3.22581,0.08167,17.97304
+Vancouver Island Northwest,Treatment,2019,2.43902,0.06175,13.58937
+Vancouver Island Northwest,Treatment,2020,3.0303,0.07672,16.88377
+Vancouver Island Northwest,Treatment,2021,2.08333,0.05275,11.60759
+Mainland Far North,Treatment,2019,5.40541,0.65462,19.52618
+Mainland Far North,Treatment,2020,5.55556,0.6728,20.06858
+Mainland South Central,Treatment,2018,1.88679,0.2285,6.81574
+Mainland South Central,Treatment,2021,4.16667,0.5046,15.05143
+Vancouver Island Northwest Central,Treatment,2017,11.11111,1.34561,40.13715
+Vancouver Island West Central,Treatment,2017,3.84615,0.46579,13.89363
+Vancouver Island West Central,Treatment,2021,3.33333,0.40368,12.04115
+Mainland North Central,Treatment,2020,3.22581,0.39066,11.65272
+Mainland Far South,Treatment,2022,5.55556,0.6728,20.06858
+Vancouver Island Southwest Central,Treatment,2019,2.9703,0.61255,8.68047
+Vancouver Island Northwest Central,Treatment,2019,12,2.47469,35.06909
+Mainland Central,Treatment,2022,7.54717,2.05635,19.32375
+Vancouver Island Northwest Central,Treatment,2020,11.11111,3.0274,28.44886
+Vancouver Island Northwest Central,Treatment,2021,16,4.35946,40.96635
+Vancouver Island West Central,Treatment,2022,13.7931,3.75816,35.31582
+Mainland North Central,Treatment,2018,5.33333,1.45315,13.65545
+Mainland North Central,Treatment,2021,11.53846,4.23441,25.11437
+Vancouver Island West Central,Treatment,2020,26.19048,13.07419,46.862
+Mainland Central,Treatment,2021,7.7381,4.12021,13.23238
+Vancouver Island Southwest Central,Treatment,2020,17.44186,9.76208,28.7677
+Vancouver Island Southwest Central,Treatment,2021,17.64706,10.45877,27.88996
+Vancouver Island Southwest Central,Treatment,2022,38.59649,24.18822,58.43555

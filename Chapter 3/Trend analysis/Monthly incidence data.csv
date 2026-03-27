@@ -1,0 +1,466 @@
+Time code,Event,Year,Month,Incidence
+1,Total mortality events (MEs),2011,June,7.8125
+2,Total mortality events (MEs),2011,July,1.538461538
+3,Total mortality events (MEs),2011,August,0
+4,Total mortality events (MEs),2011,September,10.34482759
+5,Total mortality events (MEs),2011,October,0
+6,Total mortality events (MEs),2011,November,0
+7,Total mortality events (MEs),2011,December,0
+8,Total mortality events (MEs),2012,January,0
+9,Total mortality events (MEs),2012,February,0
+10,Total mortality events (MEs),2012,March,3.703703704
+11,Total mortality events (MEs),2012,April,0
+12,Total mortality events (MEs),2012,May,1.886792453
+13,Total mortality events (MEs),2012,June,2
+14,Total mortality events (MEs),2012,July,0
+15,Total mortality events (MEs),2012,August,15.90909091
+16,Total mortality events (MEs),2012,September,4.761904762
+17,Total mortality events (MEs),2012,October,9.523809524
+18,Total mortality events (MEs),2012,November,0
+19,Total mortality events (MEs),2012,December,0
+20,Total mortality events (MEs),2013,January,0
+21,Total mortality events (MEs),2013,February,2.222222222
+22,Total mortality events (MEs),2013,March,2.173913043
+23,Total mortality events (MEs),2013,April,2.272727273
+24,Total mortality events (MEs),2013,May,2.222222222
+25,Total mortality events (MEs),2013,June,0
+26,Total mortality events (MEs),2013,July,0
+27,Total mortality events (MEs),2013,August,0
+28,Total mortality events (MEs),2013,September,5.405405405
+29,Total mortality events (MEs),2013,October,0
+30,Total mortality events (MEs),2013,November,0
+31,Total mortality events (MEs),2013,December,2.127659574
+32,Total mortality events (MEs),2014,January,0
+33,Total mortality events (MEs),2014,February,0
+34,Total mortality events (MEs),2014,March,0
+35,Total mortality events (MEs),2014,April,0
+36,Total mortality events (MEs),2014,May,0
+37,Total mortality events (MEs),2014,June,13.20754717
+38,Total mortality events (MEs),2014,July,3.846153846
+39,Total mortality events (MEs),2014,August,3.921568627
+40,Total mortality events (MEs),2014,September,16
+41,Total mortality events (MEs),2014,October,3.921568627
+42,Total mortality events (MEs),2014,November,0
+43,Total mortality events (MEs),2014,December,0
+44,Total mortality events (MEs),2015,January,0
+45,Total mortality events (MEs),2015,February,0
+46,Total mortality events (MEs),2015,March,1.666666667
+47,Total mortality events (MEs),2015,April,3.174603175
+48,Total mortality events (MEs),2015,May,1.612903226
+49,Total mortality events (MEs),2015,June,9.836065574
+50,Total mortality events (MEs),2015,July,18.18181818
+51,Total mortality events (MEs),2015,August,7.692307692
+52,Total mortality events (MEs),2015,September,1.851851852
+53,Total mortality events (MEs),2015,October,1.724137931
+54,Total mortality events (MEs),2015,November,0
+55,Total mortality events (MEs),2015,December,0
+56,Total mortality events (MEs),2016,January,1.818181818
+57,Total mortality events (MEs),2016,February,1.851851852
+58,Total mortality events (MEs),2016,March,1.851851852
+59,Total mortality events (MEs),2016,April,3.636363636
+60,Total mortality events (MEs),2016,May,8.771929825
+61,Total mortality events (MEs),2016,June,11.32075472
+62,Total mortality events (MEs),2016,July,7.843137255
+63,Total mortality events (MEs),2016,August,12
+64,Total mortality events (MEs),2016,September,7.843137255
+65,Total mortality events (MEs),2016,October,7.692307692
+66,Total mortality events (MEs),2016,November,0
+67,Total mortality events (MEs),2016,December,0
+68,Total mortality events (MEs),2017,January,0
+69,Total mortality events (MEs),2017,February,0
+70,Total mortality events (MEs),2017,March,5.769230769
+71,Total mortality events (MEs),2017,April,3.571428571
+72,Total mortality events (MEs),2017,May,5.357142857
+73,Total mortality events (MEs),2017,June,0
+74,Total mortality events (MEs),2017,July,4
+75,Total mortality events (MEs),2017,August,18.75
+76,Total mortality events (MEs),2017,September,25.53191489
+77,Total mortality events (MEs),2017,October,5.555555556
+78,Total mortality events (MEs),2017,November,8.928571429
+79,Total mortality events (MEs),2017,December,5.454545455
+80,Total mortality events (MEs),2018,January,1.886792453
+81,Total mortality events (MEs),2018,February,1.851851852
+82,Total mortality events (MEs),2018,March,13.20754717
+83,Total mortality events (MEs),2018,April,7.01754386
+84,Total mortality events (MEs),2018,May,10.34482759
+85,Total mortality events (MEs),2018,June,22.80701754
+86,Total mortality events (MEs),2018,July,24.52830189
+87,Total mortality events (MEs),2018,August,36.17021277
+88,Total mortality events (MEs),2018,September,8.163265306
+89,Total mortality events (MEs),2018,October,15.38461538
+90,Total mortality events (MEs),2018,November,3.921568627
+91,Total mortality events (MEs),2018,December,1.886792453
+92,Total mortality events (MEs),2019,January,0
+93,Total mortality events (MEs),2019,February,3.571428571
+94,Total mortality events (MEs),2019,March,8.928571429
+95,Total mortality events (MEs),2019,April,5
+96,Total mortality events (MEs),2019,May,6.451612903
+97,Total mortality events (MEs),2019,June,14.0625
+98,Total mortality events (MEs),2019,July,29.50819672
+99,Total mortality events (MEs),2019,August,29.31034483
+100,Total mortality events (MEs),2019,September,17.24137931
+101,Total mortality events (MEs),2019,October,15.51724138
+102,Total mortality events (MEs),2019,November,8.064516129
+103,Total mortality events (MEs),2019,December,1.612903226
+104,Total mortality events (MEs),2020,January,7.01754386
+105,Total mortality events (MEs),2020,February,7.272727273
+106,Total mortality events (MEs),2020,March,18.51851852
+107,Total mortality events (MEs),2020,April,10.90909091
+108,Total mortality events (MEs),2020,May,27.77777778
+109,Total mortality events (MEs),2020,June,28.30188679
+110,Total mortality events (MEs),2020,July,34
+111,Total mortality events (MEs),2020,August,32.60869565
+112,Total mortality events (MEs),2020,September,26.08695652
+113,Total mortality events (MEs),2020,October,12.5
+114,Total mortality events (MEs),2020,November,4.081632653
+115,Total mortality events (MEs),2020,December,6.12244898
+116,Total mortality events (MEs),2021,January,8
+117,Total mortality events (MEs),2021,February,6.25
+118,Total mortality events (MEs),2021,March,7.843137255
+119,Total mortality events (MEs),2021,April,15.68627451
+120,Total mortality events (MEs),2021,May,16.98113208
+121,Total mortality events (MEs),2021,June,15.09433962
+122,Total mortality events (MEs),2021,July,11.53846154
+123,Total mortality events (MEs),2021,August,34.7826087
+124,Total mortality events (MEs),2021,September,30.23255814
+125,Total mortality events (MEs),2021,October,6.25
+126,Total mortality events (MEs),2021,November,10.41666667
+127,Total mortality events (MEs),2021,December,12.76595745
+128,Total mortality events (MEs),2022,January,15.90909091
+129,Total mortality events (MEs),2022,February,23.25581395
+130,Total mortality events (MEs),2022,March,19.14893617
+131,Total mortality events (MEs),2022,April,17.39130435
+132,Total mortality events (MEs),2022,May,11.11111111
+133,Total mortality events (MEs),2022,June,21.42857143
+1,Harmful algal blooms (HABs),2011,June,6.25
+2,Harmful algal blooms (HABs),2011,July,1.538461538
+3,Harmful algal blooms (HABs),2011,August,0
+4,Harmful algal blooms (HABs),2011,September,6.896551724
+5,Harmful algal blooms (HABs),2011,October,0
+6,Harmful algal blooms (HABs),2011,November,0
+7,Harmful algal blooms (HABs),2011,December,0
+8,Harmful algal blooms (HABs),2012,January,0
+9,Harmful algal blooms (HABs),2012,February,0
+10,Harmful algal blooms (HABs),2012,March,0
+11,Harmful algal blooms (HABs),2012,April,0
+12,Harmful algal blooms (HABs),2012,May,0
+13,Harmful algal blooms (HABs),2012,June,0
+14,Harmful algal blooms (HABs),2012,July,0
+15,Harmful algal blooms (HABs),2012,August,13.63636364
+16,Harmful algal blooms (HABs),2012,September,4.761904762
+17,Harmful algal blooms (HABs),2012,October,4.761904762
+18,Harmful algal blooms (HABs),2012,November,0
+19,Harmful algal blooms (HABs),2012,December,0
+20,Harmful algal blooms (HABs),2013,January,0
+21,Harmful algal blooms (HABs),2013,February,0
+22,Harmful algal blooms (HABs),2013,March,0
+23,Harmful algal blooms (HABs),2013,April,0
+24,Harmful algal blooms (HABs),2013,May,2.222222222
+25,Harmful algal blooms (HABs),2013,June,0
+26,Harmful algal blooms (HABs),2013,July,0
+27,Harmful algal blooms (HABs),2013,August,0
+28,Harmful algal blooms (HABs),2013,September,0
+29,Harmful algal blooms (HABs),2013,October,0
+30,Harmful algal blooms (HABs),2013,November,0
+31,Harmful algal blooms (HABs),2013,December,0
+32,Harmful algal blooms (HABs),2014,January,0
+33,Harmful algal blooms (HABs),2014,February,0
+34,Harmful algal blooms (HABs),2014,March,0
+35,Harmful algal blooms (HABs),2014,April,0
+36,Harmful algal blooms (HABs),2014,May,0
+37,Harmful algal blooms (HABs),2014,June,5.660377358
+38,Harmful algal blooms (HABs),2014,July,0
+39,Harmful algal blooms (HABs),2014,August,3.921568627
+40,Harmful algal blooms (HABs),2014,September,8
+41,Harmful algal blooms (HABs),2014,October,0
+42,Harmful algal blooms (HABs),2014,November,0
+43,Harmful algal blooms (HABs),2014,December,0
+44,Harmful algal blooms (HABs),2015,January,0
+45,Harmful algal blooms (HABs),2015,February,0
+46,Harmful algal blooms (HABs),2015,March,0
+47,Harmful algal blooms (HABs),2015,April,0
+48,Harmful algal blooms (HABs),2015,May,0
+49,Harmful algal blooms (HABs),2015,June,0
+50,Harmful algal blooms (HABs),2015,July,10.90909091
+51,Harmful algal blooms (HABs),2015,August,1.923076923
+52,Harmful algal blooms (HABs),2015,September,0
+53,Harmful algal blooms (HABs),2015,October,1.724137931
+54,Harmful algal blooms (HABs),2015,November,0
+55,Harmful algal blooms (HABs),2015,December,0
+56,Harmful algal blooms (HABs),2016,January,0
+57,Harmful algal blooms (HABs),2016,February,0
+58,Harmful algal blooms (HABs),2016,March,0
+59,Harmful algal blooms (HABs),2016,April,0
+60,Harmful algal blooms (HABs),2016,May,1.754385965
+61,Harmful algal blooms (HABs),2016,June,1.886792453
+62,Harmful algal blooms (HABs),2016,July,5.882352941
+63,Harmful algal blooms (HABs),2016,August,6
+64,Harmful algal blooms (HABs),2016,September,1.960784314
+65,Harmful algal blooms (HABs),2016,October,1.923076923
+66,Harmful algal blooms (HABs),2016,November,0
+67,Harmful algal blooms (HABs),2016,December,0
+68,Harmful algal blooms (HABs),2017,January,0
+69,Harmful algal blooms (HABs),2017,February,0
+70,Harmful algal blooms (HABs),2017,March,1.923076923
+71,Harmful algal blooms (HABs),2017,April,0
+72,Harmful algal blooms (HABs),2017,May,0
+73,Harmful algal blooms (HABs),2017,June,0
+74,Harmful algal blooms (HABs),2017,July,2
+75,Harmful algal blooms (HABs),2017,August,8.333333333
+76,Harmful algal blooms (HABs),2017,September,4.255319149
+77,Harmful algal blooms (HABs),2017,October,0
+78,Harmful algal blooms (HABs),2017,November,0
+79,Harmful algal blooms (HABs),2017,December,0
+80,Harmful algal blooms (HABs),2018,January,0
+81,Harmful algal blooms (HABs),2018,February,0
+82,Harmful algal blooms (HABs),2018,March,11.32075472
+83,Harmful algal blooms (HABs),2018,April,0
+84,Harmful algal blooms (HABs),2018,May,0
+85,Harmful algal blooms (HABs),2018,June,14.03508772
+86,Harmful algal blooms (HABs),2018,July,1.886792453
+87,Harmful algal blooms (HABs),2018,August,12.76595745
+88,Harmful algal blooms (HABs),2018,September,0
+89,Harmful algal blooms (HABs),2018,October,0
+90,Harmful algal blooms (HABs),2018,November,0
+91,Harmful algal blooms (HABs),2018,December,0
+92,Harmful algal blooms (HABs),2019,January,0
+93,Harmful algal blooms (HABs),2019,February,0
+94,Harmful algal blooms (HABs),2019,March,5.357142857
+95,Harmful algal blooms (HABs),2019,April,1.666666667
+96,Harmful algal blooms (HABs),2019,May,0
+97,Harmful algal blooms (HABs),2019,June,0
+98,Harmful algal blooms (HABs),2019,July,9.836065574
+99,Harmful algal blooms (HABs),2019,August,12.06896552
+100,Harmful algal blooms (HABs),2019,September,3.448275862
+101,Harmful algal blooms (HABs),2019,October,1.724137931
+102,Harmful algal blooms (HABs),2019,November,4.838709677
+103,Harmful algal blooms (HABs),2019,December,0
+104,Harmful algal blooms (HABs),2020,January,0
+105,Harmful algal blooms (HABs),2020,February,0
+106,Harmful algal blooms (HABs),2020,March,3.703703704
+107,Harmful algal blooms (HABs),2020,April,0
+108,Harmful algal blooms (HABs),2020,May,5.555555556
+109,Harmful algal blooms (HABs),2020,June,9.433962264
+110,Harmful algal blooms (HABs),2020,July,4
+111,Harmful algal blooms (HABs),2020,August,8.695652174
+112,Harmful algal blooms (HABs),2020,September,2.173913043
+113,Harmful algal blooms (HABs),2020,October,0
+114,Harmful algal blooms (HABs),2020,November,0
+115,Harmful algal blooms (HABs),2020,December,0
+116,Harmful algal blooms (HABs),2021,January,0
+117,Harmful algal blooms (HABs),2021,February,0
+118,Harmful algal blooms (HABs),2021,March,0
+119,Harmful algal blooms (HABs),2021,April,0
+120,Harmful algal blooms (HABs),2021,May,0
+121,Harmful algal blooms (HABs),2021,June,1.886792453
+122,Harmful algal blooms (HABs),2021,July,0
+123,Harmful algal blooms (HABs),2021,August,15.2173913
+124,Harmful algal blooms (HABs),2021,September,9.302325581
+125,Harmful algal blooms (HABs),2021,October,0
+126,Harmful algal blooms (HABs),2021,November,0
+127,Harmful algal blooms (HABs),2021,December,0
+128,Harmful algal blooms (HABs),2022,January,0
+129,Harmful algal blooms (HABs),2022,February,4.651162791
+130,Harmful algal blooms (HABs),2022,March,0
+131,Harmful algal blooms (HABs),2022,April,0
+132,Harmful algal blooms (HABs),2022,May,0
+133,Harmful algal blooms (HABs),2022,June,7.142857143
+1,Low dissolved oxygen (Low-DO),2011,June,1.5625
+2,Low dissolved oxygen (Low-DO),2011,July,0
+3,Low dissolved oxygen (Low-DO),2011,August,0
+4,Low dissolved oxygen (Low-DO),2011,September,3.448275862
+5,Low dissolved oxygen (Low-DO),2011,October,0
+6,Low dissolved oxygen (Low-DO),2011,November,0
+7,Low dissolved oxygen (Low-DO),2011,December,0
+8,Low dissolved oxygen (Low-DO),2012,January,0
+9,Low dissolved oxygen (Low-DO),2012,February,0
+10,Low dissolved oxygen (Low-DO),2012,March,0
+11,Low dissolved oxygen (Low-DO),2012,April,0
+12,Low dissolved oxygen (Low-DO),2012,May,0
+13,Low dissolved oxygen (Low-DO),2012,June,2
+14,Low dissolved oxygen (Low-DO),2012,July,0
+15,Low dissolved oxygen (Low-DO),2012,August,2.272727273
+16,Low dissolved oxygen (Low-DO),2012,September,0
+17,Low dissolved oxygen (Low-DO),2012,October,2.380952381
+18,Low dissolved oxygen (Low-DO),2012,November,0
+19,Low dissolved oxygen (Low-DO),2012,December,0
+20,Low dissolved oxygen (Low-DO),2013,January,0
+21,Low dissolved oxygen (Low-DO),2013,February,0
+22,Low dissolved oxygen (Low-DO),2013,March,0
+23,Low dissolved oxygen (Low-DO),2013,April,0
+24,Low dissolved oxygen (Low-DO),2013,May,0
+25,Low dissolved oxygen (Low-DO),2013,June,0
+26,Low dissolved oxygen (Low-DO),2013,July,0
+27,Low dissolved oxygen (Low-DO),2013,August,0
+28,Low dissolved oxygen (Low-DO),2013,September,5.405405405
+29,Low dissolved oxygen (Low-DO),2013,October,0
+30,Low dissolved oxygen (Low-DO),2013,November,0
+31,Low dissolved oxygen (Low-DO),2013,December,0
+32,Low dissolved oxygen (Low-DO),2014,January,0
+33,Low dissolved oxygen (Low-DO),2014,February,0
+34,Low dissolved oxygen (Low-DO),2014,March,0
+35,Low dissolved oxygen (Low-DO),2014,April,0
+36,Low dissolved oxygen (Low-DO),2014,May,0
+37,Low dissolved oxygen (Low-DO),2014,June,1.886792453
+38,Low dissolved oxygen (Low-DO),2014,July,1.923076923
+39,Low dissolved oxygen (Low-DO),2014,August,0
+40,Low dissolved oxygen (Low-DO),2014,September,8
+41,Low dissolved oxygen (Low-DO),2014,October,1.960784314
+42,Low dissolved oxygen (Low-DO),2014,November,0
+43,Low dissolved oxygen (Low-DO),2014,December,0
+44,Low dissolved oxygen (Low-DO),2015,January,0
+45,Low dissolved oxygen (Low-DO),2015,February,0
+46,Low dissolved oxygen (Low-DO),2015,March,0
+47,Low dissolved oxygen (Low-DO),2015,April,3.174603175
+48,Low dissolved oxygen (Low-DO),2015,May,1.612903226
+49,Low dissolved oxygen (Low-DO),2015,June,9.836065574
+50,Low dissolved oxygen (Low-DO),2015,July,7.272727273
+51,Low dissolved oxygen (Low-DO),2015,August,3.846153846
+52,Low dissolved oxygen (Low-DO),2015,September,1.851851852
+53,Low dissolved oxygen (Low-DO),2015,October,0
+54,Low dissolved oxygen (Low-DO),2015,November,0
+55,Low dissolved oxygen (Low-DO),2015,December,0
+56,Low dissolved oxygen (Low-DO),2016,January,0
+57,Low dissolved oxygen (Low-DO),2016,February,0
+58,Low dissolved oxygen (Low-DO),2016,March,0
+59,Low dissolved oxygen (Low-DO),2016,April,0
+60,Low dissolved oxygen (Low-DO),2016,May,3.50877193
+61,Low dissolved oxygen (Low-DO),2016,June,5.660377358
+62,Low dissolved oxygen (Low-DO),2016,July,0
+63,Low dissolved oxygen (Low-DO),2016,August,6
+64,Low dissolved oxygen (Low-DO),2016,September,5.882352941
+65,Low dissolved oxygen (Low-DO),2016,October,5.769230769
+66,Low dissolved oxygen (Low-DO),2016,November,0
+67,Low dissolved oxygen (Low-DO),2016,December,0
+68,Low dissolved oxygen (Low-DO),2017,January,0
+69,Low dissolved oxygen (Low-DO),2017,February,0
+70,Low dissolved oxygen (Low-DO),2017,March,0
+71,Low dissolved oxygen (Low-DO),2017,April,0
+72,Low dissolved oxygen (Low-DO),2017,May,3.571428571
+73,Low dissolved oxygen (Low-DO),2017,June,0
+74,Low dissolved oxygen (Low-DO),2017,July,0
+75,Low dissolved oxygen (Low-DO),2017,August,8.333333333
+76,Low dissolved oxygen (Low-DO),2017,September,12.76595745
+77,Low dissolved oxygen (Low-DO),2017,October,5.555555556
+78,Low dissolved oxygen (Low-DO),2017,November,7.142857143
+79,Low dissolved oxygen (Low-DO),2017,December,0
+80,Low dissolved oxygen (Low-DO),2018,January,1.886792453
+81,Low dissolved oxygen (Low-DO),2018,February,0
+82,Low dissolved oxygen (Low-DO),2018,March,0
+83,Low dissolved oxygen (Low-DO),2018,April,0
+84,Low dissolved oxygen (Low-DO),2018,May,1.724137931
+85,Low dissolved oxygen (Low-DO),2018,June,0
+86,Low dissolved oxygen (Low-DO),2018,July,11.32075472
+87,Low dissolved oxygen (Low-DO),2018,August,17.0212766
+88,Low dissolved oxygen (Low-DO),2018,September,4.081632653
+89,Low dissolved oxygen (Low-DO),2018,October,11.53846154
+90,Low dissolved oxygen (Low-DO),2018,November,1.960784314
+91,Low dissolved oxygen (Low-DO),2018,December,0
+92,Low dissolved oxygen (Low-DO),2019,January,0
+93,Low dissolved oxygen (Low-DO),2019,February,0
+94,Low dissolved oxygen (Low-DO),2019,March,0
+95,Low dissolved oxygen (Low-DO),2019,April,0
+96,Low dissolved oxygen (Low-DO),2019,May,4.838709677
+97,Low dissolved oxygen (Low-DO),2019,June,7.8125
+98,Low dissolved oxygen (Low-DO),2019,July,11.47540984
+99,Low dissolved oxygen (Low-DO),2019,August,13.79310345
+100,Low dissolved oxygen (Low-DO),2019,September,12.06896552
+101,Low dissolved oxygen (Low-DO),2019,October,5.172413793
+102,Low dissolved oxygen (Low-DO),2019,November,1.612903226
+103,Low dissolved oxygen (Low-DO),2019,December,0
+104,Low dissolved oxygen (Low-DO),2020,January,0
+105,Low dissolved oxygen (Low-DO),2020,February,0
+106,Low dissolved oxygen (Low-DO),2020,March,0
+107,Low dissolved oxygen (Low-DO),2020,April,1.818181818
+108,Low dissolved oxygen (Low-DO),2020,May,3.703703704
+109,Low dissolved oxygen (Low-DO),2020,June,5.660377358
+110,Low dissolved oxygen (Low-DO),2020,July,12
+111,Low dissolved oxygen (Low-DO),2020,August,4.347826087
+112,Low dissolved oxygen (Low-DO),2020,September,8.695652174
+113,Low dissolved oxygen (Low-DO),2020,October,2.083333333
+114,Low dissolved oxygen (Low-DO),2020,November,0
+115,Low dissolved oxygen (Low-DO),2020,December,0
+116,Low dissolved oxygen (Low-DO),2021,January,0
+117,Low dissolved oxygen (Low-DO),2021,February,2.083333333
+118,Low dissolved oxygen (Low-DO),2021,March,0
+119,Low dissolved oxygen (Low-DO),2021,April,1.960784314
+120,Low dissolved oxygen (Low-DO),2021,May,3.773584906
+121,Low dissolved oxygen (Low-DO),2021,June,0
+122,Low dissolved oxygen (Low-DO),2021,July,1.923076923
+123,Low dissolved oxygen (Low-DO),2021,August,8.695652174
+124,Low dissolved oxygen (Low-DO),2021,September,6.976744186
+125,Low dissolved oxygen (Low-DO),2021,October,2.083333333
+126,Low dissolved oxygen (Low-DO),2021,November,0
+127,Low dissolved oxygen (Low-DO),2021,December,2.127659574
+128,Low dissolved oxygen (Low-DO),2022,January,0
+129,Low dissolved oxygen (Low-DO),2022,February,2.325581395
+130,Low dissolved oxygen (Low-DO),2022,March,0
+131,Low dissolved oxygen (Low-DO),2022,April,0
+132,Low dissolved oxygen (Low-DO),2022,May,0
+133,Low dissolved oxygen (Low-DO),2022,June,2.380952381
+68,Treatment,2017,January,0
+69,Treatment,2017,February,0
+70,Treatment,2017,March,0
+71,Treatment,2017,April,3.571428571
+72,Treatment,2017,May,0
+73,Treatment,2017,June,0
+74,Treatment,2017,July,0
+75,Treatment,2017,August,0
+76,Treatment,2017,September,0
+77,Treatment,2017,October,0
+78,Treatment,2017,November,0
+79,Treatment,2017,December,3.636363636
+80,Treatment,2018,January,0
+81,Treatment,2018,February,1.851851852
+82,Treatment,2018,March,1.886792453
+83,Treatment,2018,April,1.754385965
+84,Treatment,2018,May,1.724137931
+85,Treatment,2018,June,1.754385965
+86,Treatment,2018,July,1.886792453
+87,Treatment,2018,August,2.127659574
+88,Treatment,2018,September,0
+89,Treatment,2018,October,1.923076923
+90,Treatment,2018,November,1.960784314
+91,Treatment,2018,December,0
+92,Treatment,2019,January,0
+93,Treatment,2019,February,3.571428571
+94,Treatment,2019,March,1.785714286
+95,Treatment,2019,April,1.666666667
+96,Treatment,2019,May,0
+97,Treatment,2019,June,1.5625
+98,Treatment,2019,July,0
+99,Treatment,2019,August,0
+100,Treatment,2019,September,1.724137931
+101,Treatment,2019,October,5.172413793
+102,Treatment,2019,November,1.612903226
+103,Treatment,2019,December,0
+104,Treatment,2020,January,5.263157895
+105,Treatment,2020,February,5.454545455
+106,Treatment,2020,March,11.11111111
+107,Treatment,2020,April,9.090909091
+108,Treatment,2020,May,12.96296296
+109,Treatment,2020,June,5.660377358
+110,Treatment,2020,July,8
+111,Treatment,2020,August,4.347826087
+112,Treatment,2020,September,0
+113,Treatment,2020,October,2.083333333
+114,Treatment,2020,November,2.040816327
+115,Treatment,2020,December,2.040816327
+116,Treatment,2021,January,8
+117,Treatment,2021,February,4.166666667
+118,Treatment,2021,March,5.882352941
+119,Treatment,2021,April,11.76470588
+120,Treatment,2021,May,13.20754717
+121,Treatment,2021,June,11.32075472
+122,Treatment,2021,July,3.846153846
+123,Treatment,2021,August,2.173913043
+124,Treatment,2021,September,11.62790698
+125,Treatment,2021,October,4.166666667
+126,Treatment,2021,November,8.333333333
+127,Treatment,2021,December,8.510638298
+128,Treatment,2022,January,13.63636364
+129,Treatment,2022,February,13.95348837
+130,Treatment,2022,March,12.76595745
+131,Treatment,2022,April,15.2173913
+132,Treatment,2022,May,8.888888889
+133,Treatment,2022,June,9.523809524

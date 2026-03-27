@@ -1,0 +1,49 @@
+﻿Event,Year,Mean,CI lower band,CI upper band
+Harmful algal blooms (HABs),2011,2.1327,0.97521,4.04853
+Harmful algal blooms (HABs),2012,1.69492,0.81278,3.11701
+Harmful algal blooms (HABs),2013,0.19455,0.00493,1.08398
+Harmful algal blooms (HABs),2014,1.43541,0.65636,2.72485
+Harmful algal blooms (HABs),2015,1.15607,0.49911,2.27792
+Harmful algal blooms (HABs),2016,1.5748,0.75518,2.89612
+Harmful algal blooms (HABs),2017,1.28205,0.5535,2.52615
+Harmful algal blooms (HABs),2018,3.2967,2.04071,5.03936
+Harmful algal blooms (HABs),2019,3.24401,2.05642,4.8676
+Harmful algal blooms (HABs),2020,2.75974,1.60765,4.41861
+Harmful algal blooms (HABs),2021,2.0339,1.05094,3.55281
+Harmful algal blooms (HABs),2022,1.87266,0.60805,4.37016
+Low dissolved oxygen (Low-DO),2011,0.7109,0.1466,2.07755
+Low dissolved oxygen (Low-DO),2012,0.50847,0.10486,1.48598
+Low dissolved oxygen (Low-DO),2013,0.38911,0.04712,1.40558
+Low dissolved oxygen (Low-DO),2014,1.11643,0.44886,2.30027
+Low dissolved oxygen (Low-DO),2015,2.31214,1.32159,3.75477
+Low dissolved oxygen (Low-DO),2016,2.20472,1.20534,3.69915
+Low dissolved oxygen (Low-DO),2017,3.04487,1.83321,4.75494
+Low dissolved oxygen (Low-DO),2018,3.92465,2.53982,5.79355
+Low dissolved oxygen (Low-DO),2019,4.79549,3.32101,6.70121
+Low dissolved oxygen (Low-DO),2020,3.08442,1.85702,4.8167
+Low dissolved oxygen (Low-DO),2021,2.37288,1.29728,3.98129
+Low dissolved oxygen (Low-DO),2022,0.74906,0.09072,2.70588
+Total MEs,2011,2.8436,1.46933,4.9672
+Total MEs,2012,2.88136,1.6785,4.61333
+Total MEs,2013,1.36187,0.54754,2.80597
+Total MEs,2014,3.34928,2.07326,5.11973
+Total MEs,2015,3.75723,2.45434,5.50521
+Total MEs,2016,5.35433,3.70803,7.48214
+Total MEs,2017,6.73077,4.85095,9.09804
+Total MEs,2018,12.08791,9.53959,15.10782
+Total MEs,2019,11.70663,9.32426,14.51213
+Total MEs,2020,17.69481,14.52928,21.3452
+Total MEs,2021,14.40678,11.50762,17.81421
+Total MEs,2022,17.97753,13.25521,23.83559
+Treatment,2011,,,
+Treatment,2012,,,
+Treatment,2013,,,
+Treatment,2014,,,
+Treatment,2015,,,
+Treatment,2016,,,
+Treatment,2017,0.64103,0.17466,1.64128
+Treatment,2018,1.41287,0.64606,2.68207
+Treatment,2019,1.41044,0.67636,2.59384
+Treatment,2020,5.84416,4.09317,8.09078
+Treatment,2021,7.79661,5.7081,10.39959
+Treatment,2022,12.35955,8.50775,17.3574
